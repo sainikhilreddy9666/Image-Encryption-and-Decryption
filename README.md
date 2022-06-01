@@ -1,1 +1,2 @@
 # Image-Encryption-and-Decryption
+Using traditional methods of encrypted and decrypted of digital color photos, a shuffling mechanism paired with a diffusion mechanism is used to encrypt the scrambled image by changing the gray values of the image pixels. The hill cipher has significantly higher security and speed than other approaches after using all experimental and analysis methodologies on some color images to evaluate the suggested image encryption and decryption methods. Furthermore, The hiden information is stored in a file and encrypted it in the image.
